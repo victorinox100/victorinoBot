@@ -4,4 +4,12 @@
     <pattern>*</pattern>
     <template>No tengo una respuesta a tu mensaje.</template>
   </category>
+  <category>
+    <pattern>Holas</pattern>
+    <template>No quiero hablar bro, vuelve luego.</template>
+  </category>
+  <category>
+    <pattern>Quien </pattern>
+    <template>No tengo una respuesta a tu mensaje.</template>
+  </category>
 </aiml> 
